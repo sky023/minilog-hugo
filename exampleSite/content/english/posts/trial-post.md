@@ -1,10 +1,13 @@
 ---
 title: Trial Post
 date: ""
-image: ""
+image: "/images/blog/02.jpg"
 categories: []
-tags: []
+tags:
+  - test
 popular: false
 draft: false
 ---
+# Hello!
 
+​
